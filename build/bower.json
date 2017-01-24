@@ -1,0 +1,28 @@
+{
+  "name": "rootProyect",
+  "description": "Gulp, Reset Meyer, Bootstrap Grid, jQuery",
+  "main": "",
+  "authors": [
+    {
+      "name": "Joaquin Yllescas",
+      "email": "jyllescasruiz@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-grid-only": "^1.0.0",
+    "reset-css": "^2.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

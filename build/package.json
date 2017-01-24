@@ -1,0 +1,24 @@
+{
+  "title": "HTML5 + Meyer Reset + SASS + Gulp scaffold",
+  "name": "html5-meyer-sass-gulp-scaffold",
+  "description": "",
+  "author": {
+    "name": "Joaquin Yllescas teached by Luke Jakimowicz",
+    "email": "jyllescasruiz@gmail.com"
+  },
+  "repository":  { 
+    "type": "git",
+    "url": "https://github.com/JoaquinYllescas/rootProyect.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.1.1",
+    "gulp-uglify": "^2.0.0"
+  }
+}
