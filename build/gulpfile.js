@@ -9,10 +9,10 @@ var sassPaths = ["src/scss"];
 
 var paths = {
 	dist: "",
-	jsDist: "js",
-	cssDist: "css",
-	jsSrc: "src/js",
-	cssSrc: "src/scss"
+	jsDist: "../dist/js",
+	cssDist: "../dist/css",
+	jsSrc: "../src/js",
+	cssSrc: "../src/scss"
 };
 
 
