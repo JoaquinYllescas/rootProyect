@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Antes de ejecutar este archivo, nos aseguramos de que 
+# Antes de ejecutar este archivo, nos aseguramos de que las rutas sean las apropiadas para nuestro proyecto.
 # - Ejecutamos este archivo con "./postinstall.sh" directamente. SI nos dice "no permitido", aplicamos "chmod +x /path/to/yourscript.sh"
 
 
